@@ -1,3 +1,3 @@
 print("Hello, it's the first line.")
 print("This is the first modification")
-# push git dir to remote
+# push git2 dir to remote
